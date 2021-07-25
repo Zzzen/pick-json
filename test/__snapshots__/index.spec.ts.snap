@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`test foo 1`] = `
+Object {
+  "a": Object {
+    "c": "d",
+    "d": "be
+fore",
+    "false": false,
+    "null": null,
+    "true": true,
+  },
+  "arr": Array [
+    Object {
+      "x": 1,
+    },
+    12,
+    "ffff",
+  ],
+  "f": 23.3,
+}
+`;
